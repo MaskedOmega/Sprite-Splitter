@@ -8,7 +8,7 @@ Currently is capable of taking a whole sprite sheet and saving idividual sprites
 Future improvements add name specifics capable to take any naming system and store effective in relation to sprite
 
 v2 
-added a directory load splitter save where a directory can be given it reads the format crates a copy of folder structure and then saves it to a desired location.
-added multi splitter where multiple sprites sheets can be individual processed and saved in correct folder format
+Added a directory load splitter save where a directory can be given it reads the format crates a copy of folder structure and then saves it to a desired location.
+Added multi splitter where multiple sprites sheets can be individual processed and saved in correct folder format
 
-improvements have a naming change to make all files in the specified directory follow a single standard allowing universal use
+Future improvements have a naming change to make all files in the specified directory follow a single standard allowing universal use
